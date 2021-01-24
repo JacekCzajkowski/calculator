@@ -39,3 +39,6 @@ function divide() {
 }
 
 addBtn.addEventListener('click', addNumbers);
+subtractBtn.addEventListener('click', subtract);
+multiplyBtn.addEventListener('click', multiply);
+divideBtn.addEventListener('click', divide);
